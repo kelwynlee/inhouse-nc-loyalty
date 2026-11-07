@@ -1,0 +1,10 @@
+{
+  // NC Loyalty Program —— 营养俱乐部会员积分 App
+  "name": "inhouse-nc-loyalty",
+  "main": "worker.js",
+  "compatibility_date": "2025-06-01",
+  "d1_databases": [
+    { "binding": "DB", "database_name": "nc-loyalty-db", "database_id": "c2c5943c-f4f8-477d-a5a8-cb1d6015d230" }
+  ],
+  "observability": { "enabled": true }
+}
